@@ -1,0 +1,14 @@
+.bg{
+    position: relative;
+    background: url("./img/login_img.jpg") top center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.form_card{
+    position: absolute;
+    right: 30px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 350px;
+}

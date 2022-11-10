@@ -1,0 +1,13 @@
+.editor_container{
+    border: 1px solid #ccc;
+    z-index: 100;
+}
+
+.tool_bar{
+    border-bottom: 1px solid #ccc;
+}
+
+.editor{
+    height: 500px;
+    overflow-y: hidden;
+}
